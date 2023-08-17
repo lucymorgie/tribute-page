@@ -1,2 +1,2 @@
 # tribute-page
-First project from early 2023
+First ever project from early 2023

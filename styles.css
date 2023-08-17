@@ -1,0 +1,47 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #a2e1e6;
+  }
+  
+  main {
+    background-color: #dbe7e3;
+    border-radius: 15px;
+  }
+  
+  .title {
+    text-align: center;
+    margin-top: 15;
+    margin-bottom: 5;
+  }
+  
+  .description {
+    text-align: center;
+    margin-top: 10;
+  }
+  
+  .media_img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+    display: block
+  
+  }
+  
+  .media_caption {
+    text-align: center;
+    border-bottom: 8px solid #bbb;
+    border-radius: 5px;
+    line-height: 200%;
+  }
+  
+  .tribute-info {
+    margin-left: 150px;
+    line-height: 200%;
+  }
+  
+  .footer {
+    line-height: 200%;
+  }
